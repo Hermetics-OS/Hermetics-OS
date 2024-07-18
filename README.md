@@ -2,7 +2,7 @@
 <h3 align="center">Ultimate Privacy</h3>
 
 <p align="center">
-  <img src="https://ibb.co/D1YVhVZ" alt="Hermetic OS Image">
+  <img src="https://github.com/Stuff/Logo%20Official%20HermeticOS.png" alt="Hermetic OS Logo">
 </p>
 
 ### Blogs posts
