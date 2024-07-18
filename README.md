@@ -1,9 +1,9 @@
 <h1 align="center">Welcome Hermetic-OS</h1>
 <h3 align="center">Ultimate Privacy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hermetics-os&label=Profile%20views&color=0e75b6&style=flat" alt="hermetics-os" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermetics-os" alt="hermetics-os" /></a> </p>
+<p align="center">
+  <img src="https://ibb.co/D1YVhVZ" alt="Hermetic OS Image">
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
